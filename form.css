@@ -1,0 +1,6 @@
+#forme {
+    display: flex;
+    justify-content: space-around;
+    padding-right: 15px;
+    margin: 15px;
+}
